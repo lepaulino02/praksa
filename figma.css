@@ -1,0 +1,57 @@
+.custom-hr {
+    height: 2px; 
+    background-color: #000000; 
+    width: 20%; 
+    margin: 20px auto; 
+}
+.custom-hr1 {
+    height: 4px;  
+    background-color: #000000;
+    width: 20%;
+    margin: 20px 0;
+    display: block;
+}
+.custom-hr2 {
+    height: 4px;  
+    background-color: #000000;
+    width: 20%;
+    margin: 20px 0;
+    display: block;
+}
+.custom{
+    height: 300px;
+    width: 350px;
+    margin-top: 50px;
+    border-radius: 10%;
+}
+.card-text{
+    height: 100px; 
+    overflow: hidden;
+
+}
+.card{
+    width: 18rem;
+    border-radius: 5%;
+}
+.card-img-top{
+    height: 200px; 
+    object-fit: cover;
+}
+#edwardbcg {
+    background: linear-gradient(208.18deg, #67C3F3 9.05%, #5A98F2 76.74%);
+    border-radius: 24px;
+    height: 425px;
+    width: 1120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+}
+
+.col-md-6 {
+    display: flex;
+    align-items: center; 
+}
+.rounded-circle {
+    width: 100px; /* Prilagodite širinu prema potrebi */
+    height: 100px; /* Prilagodite visinu prema potrebi */
+}
