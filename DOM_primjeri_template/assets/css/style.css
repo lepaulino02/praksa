@@ -1,0 +1,6 @@
+.hover-effect {
+    background-color: blue;
+}
+.box:hover {
+    color: red;
+}
